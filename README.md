@@ -16,8 +16,8 @@ VIPER es un acrónimo:
 
 VIEW: Muestra lo que se le dice que por el Presentator.
 INTERACTOR: Contiene la lógica de negocio según lo especificado por un caso de uso.
-PRESENTADOR: Contiene vista lógica para la preparación de contenidos para la pantalla (como se recibió del INTERACTOR).
-ENTIDAD: Contiene objetos modelo básico utilizado por el INTERACTOR.
+PRESENTER: Contiene vista lógica para la preparación de contenidos para la pantalla (como se recibió del INTERACTOR).
+ENTITY: Contiene objetos modelo básico utilizado por el INTERACTOR.
 ROUTING: Contiene la lógica de navegación para describir qué pantalla se muestran y en qué orden.
 
 Esta separación también se ajusta al principio de responsabilidad individual.
