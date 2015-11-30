@@ -18,3 +18,5 @@ Basic example of a use case using VIPER (Clean Architecture).
 PRESENTER
 INTERACTOR
 VIEW
+
+VIPER is an application of Clean Architeture to iOs
